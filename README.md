@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+because im still a noob who knows next to nothing, i mainly use this as a place to have version control for my webiste. what joy! what joy...
+
 <!---
 wiichicken/wiichicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. darn right ya can
 --->
