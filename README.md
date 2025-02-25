@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes. darn right ya can
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  38,797 Karma Points           
+🏆  38,805 Karma Points           
 🌸  Completed 2 tasks today           
 ✅  Completed 27,415 tasks so far           
 ⏳  Longest streak is 328 days
