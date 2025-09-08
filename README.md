@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes. darn right ya can
 
 <!-- TODO-IST:START -->
 🏆  44,386 Karma Points           
-🌸  Completed 58 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 31,088 tasks so far           
 ⏳  Longest streak is 328 days
 <!-- TODO-IST:END -->
