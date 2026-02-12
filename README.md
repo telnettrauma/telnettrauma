@@ -3,6 +3,9 @@ You can click the Preview link to take a look at your changes. darn right ya can
 
 # Todoist Stats
 
+> [!TIP]
+> the todoist api changed so this isn't updated anymore
+
 <!-- TODO-IST:START -->
 🏆  50,498 Karma Points           
 🌸  Completed 78 tasks today           
